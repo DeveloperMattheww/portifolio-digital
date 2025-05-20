@@ -1,2 +1,2 @@
 # portifolio-digital
-Portifólio Digital de Matheus
+Portifólio digital de Matheus, aprendendo funcionamento do GitHub
